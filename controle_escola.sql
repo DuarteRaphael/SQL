@@ -5,15 +5,15 @@
 	
 	Uma escola necessita armazenar os dados de seus alunos: nome, genero e data de nascimento.
 	
-	AlÈm dos dados do aluno, os dados das disciplinas que esses alunos podem cursar tambÈm
-	devem ser armazenados. Os dados das disciplina s„o: nome, carga hor·ria, professor e 
+	Al√©m dos dados do aluno, os dados das disciplinas que esses alunos podem cursar tamb√©m
+	devem ser armazenados. Os dados das disciplina s√£o: nome, carga hor√°ria, professor e 
 	grau de escolaridade do professor.
 	
-	Um professor pode lecionar mais de uma disciplina, j· uma disciplina pode ser lecionada
+	Um professor pode lecionar mais de uma disciplina, j√° uma disciplina pode ser lecionada
 	por apenas um professor.
 
-	No ano letivo em que um aluno cursa uma disciplina ele obtÈm 3 notas. As notas s„o 
-	utilizadas para gerar mÈdia e verificar a condiÁ„o de aprovaÁ„o do aluno em uma disciplina.
+	No ano letivo em que um aluno cursa uma disciplina ele obt√©m 3 notas. As notas s√£o 
+	utilizadas para gerar m√©dia e verificar a condi√ß√£o de aprova√ß√£o do aluno em uma disciplina.
 	
 **/
 
